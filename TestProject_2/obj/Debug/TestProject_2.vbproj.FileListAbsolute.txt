@@ -1,0 +1,9 @@
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\bin\TestProject_2.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\bin\TestProject_2.pdb
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\bin\TestProject_2.xml
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\obj\Debug\TestProject_2.Resources.resources
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\obj\Debug\TestProject_2.vbproj.GenerateResource.Cache
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\obj\Debug\TestProject_2.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\obj\Debug\TestProject_2.xml
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\obj\Debug\TestProject_2.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\Nidhi\TestProject_1\TestProject_2\obj\Debug\TestProject_2.vbprojResolveAssemblyReference.cache

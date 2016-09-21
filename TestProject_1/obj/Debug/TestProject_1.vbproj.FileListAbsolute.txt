@@ -1,0 +1,12 @@
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\bin\TestProject_1.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\bin\TestProject_1.pdb
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\bin\TestProject_1.xml
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\obj\Debug\TestProject_1.Resources.resources
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\obj\Debug\TestProject_1.vbproj.GenerateResource.Cache
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\obj\Debug\TestProject_1.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\obj\Debug\TestProject_1.xml
+c:\users\ibm_admin\documents\visual studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\obj\Debug\TestProject_1.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\bin\TestProject_2.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\bin\TestProject_2.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\bin\TestProject_2.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2010\Projects\Nidhi\TestProject_1\TestProject_1\obj\Debug\TestProject_1.vbprojResolveAssemblyReference.cache
